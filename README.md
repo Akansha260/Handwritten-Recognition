@@ -9,7 +9,7 @@ This project presents a custom CNN-based approach to recognize English handwritt
 ## Key Features
 
 - Utilizes a CNN architecture tailored for handwritten character recognition.
-- Evaluates six different optimizers:
+- Evaluates five different optimizers:
   - LAMB
   - Adam
   - Lion
