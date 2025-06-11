@@ -1,4 +1,3 @@
-# Handwritten-Recognition
 # Handwritten Character Recognition Using CNNs and Optimizer Evaluation
 
 ## Overview
